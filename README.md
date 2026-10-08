@@ -49,3 +49,7 @@ wrong window, launch once with `-SignIn`.
 - Both instances show the same Dock/taskbar icon.
 - A relocated profile disables Claude's "local pairing" feature; nothing else changes.
 - Never run two instances on the same profile folder at once.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Do whatever you like with it.
